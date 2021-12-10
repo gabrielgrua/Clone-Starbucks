@@ -10,3 +10,10 @@ Imagens de algumas seções do site recriado:
 ![sb2](https://user-images.githubusercontent.com/95376934/145262048-7d6f93b8-a2ef-48c0-a805-3c3d693506fe.PNG)
 <br>
 ![sb3](https://user-images.githubusercontent.com/95376934/145262050-3d04fa6e-4dc6-4440-9dc5-1e690b943c39.PNG)
+<br>
+<br>
+Responsivo mobile:
+<br>
+![sb4](https://user-images.githubusercontent.com/95376934/145619989-c1ab7022-2000-4474-9f36-f6631e9bcfcd.PNG)
+<br>
+![sb5](https://user-images.githubusercontent.com/95376934/145619994-cbd1c075-36ea-4d57-8b9b-19f65f9ca912.PNG)
