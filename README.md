@@ -1,7 +1,9 @@
 # Clone-Starbucks
 Recriado um site da Starbucks com finalidade de estudo das tecnologias HTML e CSS.
 Template pode ser encontrado em https://nicepage.com/html-templates/preview/starbucks-coffee-17223?device=desktop.
-Imagens retiradas do próprio template.
+Imagens retiradas do próprio template. <br/>
+
+Link: https://gabrielgrua.github.io/Clone-Starbucks/ <br/>
 
 Imagens de algumas seções do site recriado:
 <br>
